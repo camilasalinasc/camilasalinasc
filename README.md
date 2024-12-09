@@ -1,4 +1,4 @@
-### Hi, I'm Camila!
+### 👋 Hi, I'm Camila!
 
 👩🏻‍💻 Third-year Computer Science student at the University of Massachusetts Lowell, MA
 
