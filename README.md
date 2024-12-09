@@ -1,4 +1,11 @@
-## Hi there 👋
+### Hi, I'm Camila!
+
+👩🏻‍💻 Third-year Computer Science student at the University of Massachusetts Lowell, MA
+💭 Currently exploring various fields, including machine learning, game development, front-end development, and robotics.
+💻 Interested in using technology to solve meaningful problems, especially in healthcare.
+
+
+
 
 <!--
 **camilasalinasc/camilasalinasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
